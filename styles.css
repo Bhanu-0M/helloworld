@@ -1,0 +1,14 @@
+*{
+    background-color: cyan;
+}
+.head{
+    text-align: center;
+    border: solid red;
+}
+.hw{
+    font-size:100px;
+    color: red;
+    text-align: center;
+    margin-top: 0px;
+    font-family: sans-serif;
+}
